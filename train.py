@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# -*- coding:utf-8 -*-
+# @Filename:    detect_gender.py.py
+# @Author:      Daniel Puente Ramírez
+# @Time:        7/11/21 17:32
+
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.preprocessing.image import img_to_array
